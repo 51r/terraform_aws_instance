@@ -1,6 +1,6 @@
 # Simple Terraform configuration for the latest Ubuntu intance in aws
 
-This repo contains main.tf and data-source.tf, that can be used to build the latest Ubuntu version instance in AWS.
+This repo contains main.tf and data-source.tf, that can be used to build an instance with the latest version of Ubuntu in AWS.
 
 # Prerequisite
 This guide applies to Mac, for other OS it may vary. You need to have terraform CLI installed on you workstation. In the guide below, we will be using [homebrew](https://brew.sh/)
