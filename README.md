@@ -27,7 +27,7 @@ terraform --version
 
 * Clone this repo locally to a folder of your choice
 ```
-git clone [https://github.com/51r/terraform_null_count.git](https://github.com/51r/terraform_aws_instance.git)
+git clone https://github.com/51r/terraform_aws_instance.git
 ```
 
 * Make sure you are in the main directory of the repo:
