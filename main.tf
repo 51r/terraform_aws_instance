@@ -3,7 +3,7 @@ resource "aws_instance" "ubuntu" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "Peter-Test-Ubuntu"
+    Name  = "Peter-Test-Ubuntu"
     Owner = "petar.spasov@hashicorp.com"
   }
 
