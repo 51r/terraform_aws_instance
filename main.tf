@@ -6,5 +6,4 @@ resource "aws_instance" "ubuntu" {
     Name  = "Peter-Test-Ubuntu"
     Owner = "petar.spasov@hashicorp.com"
   }
-
 }
